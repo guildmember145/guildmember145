@@ -7,9 +7,8 @@
     Bun
     Go
     Python
-    Springboot
+    React
     POO
-    Java
     Testing
     Docker
 
